@@ -7,15 +7,18 @@
     "repository"  : "vendor_oneplus",
     "target_path" : "vendor/oneplus"
   },
-    "repository"  : "vendor_addons_oneplus_camera",
-    "branch"      : "gallery",
-    "clone-depth" : "1",
+  { 
+   "repository"  : "vendor_addons_oneplus_apps",
     "target_path" : "vendor/addons/oneplus/apps"
   },
   {
+   "repository"  : "device_oneplus_common",
+    "target_path" : "device/oneplus/common"
+  },
+  {
+    "remote": "github",
     "repository"  : "kdrag0n/proton-clang",
     "branch"      : "master",
-    "remote"      : "github",
     "target_path" : "prebuilts/clang/host/linux-x86/clang-proton"
   }
 ]
