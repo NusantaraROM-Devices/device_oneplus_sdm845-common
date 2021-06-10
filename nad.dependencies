@@ -13,8 +13,8 @@
   },
   {
     "remote": "github",
-    "repository": "zahidmgsk/kernel_oneplus_sdm845",
+    "repository": "Thunder-StROMs-Devices/kernel_oneplus_sdm845_r1",
     "target_path": "kernel/oneplus/sdm845",
-    "branch": "Illusion-263"   
+    "branch": "11.0-illusion"    
   }
 ]
