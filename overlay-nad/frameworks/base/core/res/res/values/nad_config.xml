@@ -57,6 +57,9 @@
     <!-- BurnIn protection. This should be enabled on devices that have OLED displays -->
     <bool name="config_enableBurnInProtection">true</bool>
 
+    <!-- If true, the display will be shifted around in ambient mode. -->
+    <bool name="config_enableBurnInProtection">true</bool>
+
     <!-- System Info -->
     <string name="config_sysCPUTemp">/sys/class/thermal/thermal_zone4/temp</string>
     <string name="config_sysBatteryTemp">/sys/class/power_supply/battery/temp</string>
